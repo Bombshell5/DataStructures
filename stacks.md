@@ -20,9 +20,8 @@ print(tommyPancakes)  #[chocolate, banana, blueberries]
   The solution for this problem can be found in [here](https://github.com/Bombshell5/DataStructures/blob/main/stacks01_solution.py)
   
   ## Example Problem #2
-  
     ```python
-    # Palindrome is a word, phrase, or sequence that reads the same backward as forward, using stacks
+    #Palindrome is a word, phrase, or sequence that reads the same backward as forward, using stacks
     #we want to determine if the word, phrease or sequence is a palindrome.
     
     def isPalindrome(string):
@@ -31,11 +30,10 @@ print(tommyPancakes)  #[chocolate, banana, blueberries]
     #Your code goes here
       return
 
-
     print(isPalindrome('civic')) # True
     print(isPalindrome('banana')) # False
     print(isPalindrome('saippuakivikauppias')) #True
     print(isPalindrome(16461)) #True
-    ``` 
+    ```
     
   
