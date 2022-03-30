@@ -4,4 +4,11 @@
   The main operations of this data structure is ***push*** and ***pop***. Push(*data*) as it sounds will add *data* to the top of the stack. Pop() will remove the element from the top of the stack. For a better representation look at the image below. 
   ![Stacks](https://www.tutorialspoint.com/data_structures_algorithms/images/stack_representation.jpg)
   
+  ## Example Problem #1 
+  ```
+  stack = [] # This is how a stack is established. 
+  # remember that a string can also act as a stack. 
+  FruitStack01 = [apple, strawberry, banana, 
+  ```
+  
   
