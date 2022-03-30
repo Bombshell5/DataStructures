@@ -1,6 +1,6 @@
 # Stacks
 ## Introduction and explanation 
-  We are going to be learning about stacks. Stacks are a really useful type of data structure since they offer order by implemeteting LIFO (Last-In-First-Out). As described the first item that goes in a stack is the one that will come out last.  
+  We are going to be learning about stacks. Stacks are a really useful type of data structure since they offer order by implementeting LIFO (Last-In-First-Out). As described the first item that goes in a stack is the one that will come out last.  
   The main operations of this data structure is ***push*** and ***pop***. Push(*data*) as it sounds will add *data* to the top of the stack, in Python push() is used as append(). Pop() will remove the element from the top of the stack. Pop() can also be used with an index, meaning if you put pop(0), it will delete the first item, when using it without a number the default is to delete the last one. For a better representation look at the image below
   
   ![Stacks](https://www.tutorialspoint.com/data_structures_algorithms/images/stack_representation.jpg)
