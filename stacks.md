@@ -18,7 +18,7 @@ tommyPancakes = []
 print(tommyPancakes)  #[chocolate, banana, blueberries]
 
   ```
-  The solution for this problem can be found in [here](https://github.com/Bombshell5/DataStructures/blob/main/stacks01_solution.py)
+  The solution for this problem can be found [here](https://github.com/Bombshell5/DataStructures/blob/main/stacks01_solution.py)
   
   ## Example Problem #2
   ```python
@@ -26,7 +26,7 @@ print(tommyPancakes)  #[chocolate, banana, blueberries]
     #we want to determine if the word, phrease or sequence is a palindrome.
     
     def isPalindrome(string):
-    #This function will determine if the string inserted in a palindrome. The function will return true or false
+    #This function will determine if the string inserted is a palindrome. The function will return true or false
     #depending if it is a palindrome (True) or if it's not (False).
     #Your code goes here
       return
@@ -37,7 +37,7 @@ print(tommyPancakes)  #[chocolate, banana, blueberries]
     print(isPalindrome(16461)) #True
     
   ```
-  The solution for this problem can be found in [here](https://github.com/Bombshell5/DataStructures/blob/main/Stacks02_solution.py)
+  The solution for this problem can be found [here](https://github.com/Bombshell5/DataStructures/blob/main/Stacks02_solution.py)
   
   
     
