@@ -32,10 +32,10 @@ print(tommyPancakes)  #[chocolate, banana, blueberries]
       return
 
 
-  print(isPalindrome('civic')) # True
-  print(isPalindrome('banana')) # False
-  print(isPalindrome('saippuakivikauppias')) #True
-  print(isPalindrome(16461)) #True
+    print(isPalindrome('civic')) # True
+    print(isPalindrome('banana')) # False
+    print(isPalindrome('saippuakivikauppias')) #True
+    print(isPalindrome(16461)) #True
     ``` 
     
   
