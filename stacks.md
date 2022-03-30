@@ -17,6 +17,8 @@ tommyPancakes = []
 print(tommyPancakes)  #[chocolate, banana, blueberries]
 
   ```
+  The solution can be found in [solution01](https://github.com/Bombshell5/DataStructures/blob/main/stacks01_solution.py)
+  
   ## Example Problem #2
   
     ```python
