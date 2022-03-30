@@ -22,7 +22,23 @@ print(tommyPancakes)  #[chocolate, banana, blueberries]
   ## Example Problem #2
   
     ```python
+    # Palindrome is a word, phrase, or sequence that reads the same backward as forward, using stacks
+# we want to determine if the word, phrease or sequence is a palindrome.
+
+def isPalindrome(string):
+    #This function will determine if the string inserted in a palindrome. The function will return true or false
+    #depending if it is a palindrome (True) or if it's not (False).
+    #Your code goes here
     
-    
+
+    return
+
+
+
+print(isPalindrome('civic')) # True
+print(isPalindrome('banana')) # False
+print(isPalindrome('saippuakivikauppias')) #True
+print(isPalindrome(16461)) #True
     ``` 
+    
   
