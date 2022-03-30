@@ -36,7 +36,8 @@ print(tommyPancakes)  #[chocolate, banana, blueberries]
     print(isPalindrome(16461)) #True
     
   ```
-  The solution for this problem can be found in [here]()
+  The solution for this problem can be found in [here](https://github.com/Bombshell5/DataStructures/blob/main/Stacks02_solution.py)
+  
   
     
   
