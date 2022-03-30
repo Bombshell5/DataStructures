@@ -5,7 +5,7 @@
   ![Stacks](https://www.tutorialspoint.com/data_structures_algorithms/images/stack_representation.jpg)
   
   ## Example Problem #1 
-  ```
+  ```python
   stack = [] # This is how a stack is established. 
   # remember that a string can also act as a stack. 
   FruitStack01 = [apple, strawberry, banana, 
