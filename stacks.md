@@ -6,6 +6,7 @@
   ![Stacks](https://www.tutorialspoint.com/data_structures_algorithms/images/stack_representation.jpg)
   
   
+  append() and pop(), are O(1) in efficiency.
   ## Example Problem #1 
   ```python
   #There is a stack of pancakes each of different flavors
