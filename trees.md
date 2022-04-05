@@ -7,6 +7,7 @@ def forever():
   forever()
 ```
 Let's proceed with trees!! We will talk about Binary Trees and Binary Search Trees. But first what is a tree? Trees are composed of nodes that are connected to each other by pointers. A tree can connect multiple nodes (more than 2) together. 
+Trees are very useful when data becomes more complicated, because, when working with arrays and other linear data it becomes more complex as the data increases. However the structure of the tree helps the data be organized hierarchically therefore the process is not so complex. 
 ### Binary Tree 
 As the name implies, it connects no more than two nodes.
 ![trees](https://shunsvineyard.info/wp-content/uploads/2021/03/binary_tree_traversal-inorder.png)   
@@ -58,7 +59,9 @@ class Tree:
         elif data == node.data:
             print(f"{data} is already in the tree")
 ```
-For the following problem, we are going to use the same tree we created for the insert function, please do not worry about the other functions, they are there for functionability, if you wish to know more about them please contact me. Contact info is [here]()
+For the following problem, we are going to use the same tree we created for the insert function, please do not worry about the other functions, they are there for functionability, if you wish to know more about them please contact me. Contact info is [here](https://github.com/Bombshell5/DataStructures/blob/main/welcome.md)
+
+
 ## Problem #1 
 ```python
 #Peter created a Binary Search Tree and wanted to number each of the leaves, however he got ditracted and lost count, please add to the contains function
