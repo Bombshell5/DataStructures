@@ -40,4 +40,7 @@ menInBlack = {2384, 7623, 1379, 3278, 1983, 2945, 1239, 9834, 1093, 1058, 8923, 
 #Code goes here:
 
 ```
-The answer of the solution is [here](
+The answer of the solution is [here](https://github.com/Bombshell5/DataStructures/blob/main/solution_sets.py)
+
+**Please make sure that you try to solve it first before looking at the answer.**
+
