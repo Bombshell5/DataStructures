@@ -9,7 +9,8 @@ def forever():
 Let's proceed with trees!! We will talk about Binary Trees and Binary Search Trees. But first what is a tree? Trees are composed of nodes that are connected to each other by pointers. A tree can connect multiple nodes (more than 2) together. 
 Trees are very useful when data becomes more complicated, because, when working with arrays and other linear data it becomes more complex as the data increases. However the structure of the tree helps the data be organized hierarchically therefore the process is not so complex. 
 ### Binary Tree 
-As the name implies, it connects no more than two nodes.
+As the name implies, it connects no more than two nodes.   
+
 ![trees](https://shunsvineyard.info/wp-content/uploads/2021/03/binary_tree_traversal-inorder.png)   
 The top node is called root and a node that is connected to other nodes is called a **parent** node. The nodes that are connected to a parent node are called **child** nodes. And the nodes that don't connect any other nodes are called **leaf** nodes (just like a normal tree). 
 ### Binary Search Tree
