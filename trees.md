@@ -179,5 +179,6 @@ print(9 in tree) # True
 print(16 in tree) # False
 print(9 in tree) # True
 ```
-The solution is [here]()
+The solution is [here](https://github.com/Bombshell5/DataStructures/blob/main/trees.py)
+
 
